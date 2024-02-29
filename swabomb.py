@@ -92,4 +92,4 @@ def bomb():
 
 driver = setup()
 input('Enter any key after scanning QR code')
-main()￼Enter
+main()
